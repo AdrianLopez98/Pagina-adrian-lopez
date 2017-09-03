@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="boda.xsl"?>
+<bodas>
+		<imagen1 ruta="../imagenes/bodas/novios1.jpg"/>
+		<nombre1>Adrián y Eva</nombre1>
+		<imagen2 ruta="../imagenes/bodas/novios2.jpg"/>
+		<nombre2>Hugo y Alba</nombre2>
+	
+</bodas>

@@ -1,0 +1,148 @@
+@font-face {
+    font-family: "AmaticSC-Regular";
+    src: url(../fonts/AmaticSC-Regular.ttf) format("truetype");
+}
+
+.title{
+	font-family: AmaticSC-Regular;
+	color: white;
+	text-align: center;
+	text-shadow: 2px 6px 6px #000000;
+	font-size: 65px;
+	margin-top: 10px;
+}
+
+body{
+	background-color: grey;
+	width:85%;
+	margin:auto;
+	min-width:1000px;
+	max-width:3000px
+}
+	
+
+
+header{
+	width: auto;
+	height: 100px;
+	padding :1px;
+	background-color:grey ;
+	
+}
+.novios{
+	float: left;
+	clear: both;
+	width: 100px;
+	margin-top: 7px;
+	margin-left: 20px;
+
+}
+
+.redes{
+	float: right;
+	margin-right: 2%;
+	
+}
+.redestam{
+	width: 25px;
+}
+.copas{
+	float: right;
+	width: 80px;
+	margin-right: 150px;
+	margin-top: 10px;
+
+
+}
+
+
+hr{
+	margin: 0;
+	background-color: white;
+	padding: 1.5px;
+	border-style: none;
+}
+nav{
+	width: auto;
+	height: 40px;
+	background-color:#009688;
+	background-size: 100%;
+	
+}
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    margin: 0;
+    width: auto;
+	height: 40px;
+	background-size: 100%;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: AmaticSC-Regular;
+    width: 200px;
+    
+}
+.topnav a:hover {
+    background-color: #b2dfdb;
+    color: black;
+   
+}
+
+
+
+section{
+	background-size: 100%;
+	width: auto;
+	height: 1000px;
+}
+
+.frame1{
+	height: 1000px;
+	width: 100%;
+	
+	border: none;
+}
+
+
+
+footer{
+	background-color: grey;
+	height: 130px;
+	margin:0;
+
+}
+
+.footer1{
+	margin-left: 7%;
+	margin-right: 0%;
+	padding-top: 10px;
+	float: left;
+}
+
+.footer2{
+	padding-top: 10px;
+	margin-left: 5%;
+	float: left;
+}
+.letrasfoot{
+	font-family: AmaticSC-Regular;
+	color: white;
+	text-shadow: 2px 6px 6px #000000;
+	font-size: 50px;
+	margin-top: 25px;
+	margin-bottom: 0;
+}
+
+ul{
+
+	margin-right: 50px;
+	float: left;
+	color:white;
+	font-family: AmaticSC-Regular;
+
+}
+li{
+	font-size: 20px;
+}
